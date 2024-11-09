@@ -119,9 +119,9 @@ Windows用户可以直接从微软商店下载**串口调试助手**。
 
 ## 四、软件集合
 
-[STM32CubeMX官网下载](超链接地址 "[STM32CubeMX官网下载](https://www.st.com/en/development-tools/stm32cubemx.html)")
+[STM32CubeMX官网下载](https://www.st.com/en/development-tools/stm32cubemx.html)
 
-[Keil5官网下载地址](超链接地址 "[Keil5官网下载地址](https://www.keil.com/download/product/)")
+[Keil5官网下载地址](https://www.keil.com/download/product/)
 
 **串口烧录软件**和**串口调试工具**在仓库中下载。
 推荐Windows用户下载微软商店的**串口调试助手**。
